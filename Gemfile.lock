@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/stevenyap/dino.git
+  revision: d8e00fdcf113c643582e4ecee0a2c52dbd9e7b18
+  branch: master
+  specs:
+    dino (0.11.2)
+      serialport
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    serialport (1.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dino!
+
+BUNDLED WITH
+   1.11.2
